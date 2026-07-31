@@ -1,0 +1,35 @@
+{
+  "modelParams": {
+    "temperature": 0.7,
+    "top_p": 1,
+    "max_tokens": 4096,
+    "maxToolRounds": 50
+  },
+  "providers": {
+    "deepseek": {
+      "apiKey": "",
+      "baseUrl": "https://api.deepseek.com/v1"
+    },
+    "xiaomi": {
+      "apiKey": "",
+      "baseUrl": "https://token-plan-cn.xiaomimimo.com/v1"
+    }
+  },
+  "mcpTools": [],
+  "mcpServers": [
+    {
+      "id": "",
+      "name": "GitHub",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "url": "",
+      "token": "",
+      "env": {},
+      "enabled": true
+    }
+  ],
+  "webSearch": {
+    "apiKey": ""
+  }
+}
