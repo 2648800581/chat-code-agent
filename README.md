@@ -1,18 +1,18 @@
 # Chat Code Agent
 
-| 前端框架 | [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/) |
-| 语言 | [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) |
-| 构建工具 | [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) |
-| 样式 | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) |
-| 状态管理 | [![Zustand](https://img.shields.io/badge/Zustand-5-18181B?logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/) |
-| 代码编辑器 | [![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0.52-007ACC?logo=visualstudiocode&logoColor=white)](https://microsoft.github.io/monaco-editor/) |
-| 终端 | [![xterm.js](https://img.shields.io/badge/xterm.js-5-000000?logo=terminal&logoColor=white)](https://xtermjs.org/) |
-| 后端 | [![Express](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)](https://expressjs.com/) |
-| Markdown | [![React Markdown](https://img.shields.io/badge/React_Markdown-9-000000?logo=markdown&logoColor=white)](https://remarkjs.github.io/react-markdown/) |
-| 定时任务 | [![node-cron](https://img.shields.io/badge/node--cron-3-2B5B84?logo=nodedotjs&logoColor=white)](https://github.com/node-cron/node-cron) |
-| 图标库 | [![Lucide React](https://img.shields.io/badge/Lucide_React-0.508-FFB800?logo=lucide&logoColor=white)](https://lucide.dev/) |
-| 运行时 | [![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
-| 包管理器 | [![npm](https://img.shields.io/badge/npm-9-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/) |
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-5-18181B?logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/) |
+[![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0.52-007ACC?logo=visualstudiocode&logoColor=white)](https://microsoft.github.io/monaco-editor/)
+[![xterm.js](https://img.shields.io/badge/xterm.js-5-000000?logo=terminal&logoColor=white)](https://xtermjs.org/)
+[![Express](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![React Markdown](https://img.shields.io/badge/React_Markdown-9-000000?logo=markdown&logoColor=white)](https://remarkjs.github.io/react-markdown/)
+[![node-cron](https://img.shields.io/badge/node--cron-3-2B5B84?logo=nodedotjs&logoColor=white)](https://github.com/node-cron/node-cron)
+[![Lucide React](https://img.shields.io/badge/Lucide_React-0.508-FFB800?logo=lucide&logoColor=white)](https://lucide.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-9-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 AI 驱动的全能编程助手 —— 融合聊天对话与代码编辑，支持多模型切换、文件管理、终端操作、MCP 扩展、定时任务等。
 
