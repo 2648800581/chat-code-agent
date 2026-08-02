@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Zustand](https://img.shields.io/badge/Zustand-5-18181B?logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/) |
+[![Zustand](https://img.shields.io/badge/Zustand-5-18181B?logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
 [![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0.52-007ACC?logo=visualstudiocode&logoColor=white)](https://microsoft.github.io/monaco-editor/)
 [![xterm.js](https://img.shields.io/badge/xterm.js-5-000000?logo=terminal&logoColor=white)](https://xtermjs.org/)
 [![Express](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)](https://expressjs.com/)
